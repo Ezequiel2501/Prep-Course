@@ -8,9 +8,9 @@ img {
 .thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: beige;
+    background-color: rgb(171, 171, 65);
     padding: 50px;
-    border: 30px solid aqua;
+    border: 30px solid black;
 }
 .spanId{
     font-size: 18px;
